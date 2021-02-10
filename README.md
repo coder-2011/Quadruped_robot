@@ -1,2 +1,2 @@
 # Quadruped_robot
-THIs robot uses 8 servos
+This robot uses 8 servo
